@@ -8,10 +8,9 @@
   * CSS
   * JavaScript
 
-## Authors
 
-  - **Jonida Baçi**
-    [NidaBaci](https://nidabaci.github.com/)
+ ## Demo
+[Click Here to see demo](https://dazzling-kashata-980f32.netlify.app/)
     
 ## Acknowledgments
 
